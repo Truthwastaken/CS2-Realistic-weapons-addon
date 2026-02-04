@@ -11,7 +11,7 @@ just for fun, i've made a mod that changes ~~every~~ weapon's stats to match rea
 
 for example, the MP7 now has a 40 round magazine and a blistering high rate of fire of 950 rpm!
 
-i've made sure the weapons with changed magazine capacities (MP7,M4A1-S,FAMAS,M249, AWP!, etc) have correct reserve ammo as well (no more 30 + 100 on the MAC-10 or 35 + 90 on the FAMAS!)
+i've made sure the weapons with changed magazine capacities (MP7,M4A1-S,FAMAS,M249, AWP!, etc) have correct reserve ammo as well (no more 30 + 100 on the MAC-10 or 35 + 90 on the Galil!)
 
 notable changes:   
 CZ-75A has 1000rpm and 16 round magazines
