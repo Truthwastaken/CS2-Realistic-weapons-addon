@@ -59,3 +59,16 @@ all shotguns have have their spread tightened, armor performance reduced and rat
 everything is subject to change with more accurate information, and not every weapon is completed yet.
 
 # where can i get this and try it out?
+
+1. download the files from the repository
+2. drop them into the game directory
+3. launch CS2 with "-addon test2" as a launch option
+4. create a lobby, invite friends with the same addon and i'm pretty sure  it just works!
+
+for server hosters
+im not too sure yet, but maybe theres a resources  / scripts folder you can drop this into
+
+notes:
+as far as i know, loading workshop maps does not work with this mod
+you will not get vac banned for this, i think joining a server with this will either get you kicked or the mods disabled
+it is very WIP, i have not gone into changing weapon sounds and animations yet!
